@@ -9,7 +9,6 @@ body {
 .carousel img {
   width: 100% ;
   height: auto;
-  max-width: 70vh;
   object-fit: contain;
   background-color: #f3bedf;
 }
