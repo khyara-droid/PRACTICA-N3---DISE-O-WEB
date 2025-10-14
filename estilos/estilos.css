@@ -7,15 +7,11 @@ body {
 }
 
 .carousel img {
-    width: 100%; 
-    height: 700px;
-    object-fit: cover;
-}
-@media (max-width: 768px){
-    .carousel img {
-        height: 250px;
-        object-fit: contain;
-    }
+  width: 100% ;
+  height: auto;
+  max-width: 70vh;
+  object-fit: contain;
+  background-color: #f3bedf;
 }
 
 p {
